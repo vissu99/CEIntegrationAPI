@@ -1,0 +1,32 @@
+# Binaries
+*.jar
+*.war
+*.ear
+*.sar
+*.class
+
+# Maven 
+target/
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Eclipse project file
+.settings/
+.classpath
+.project
+.factorypath
+
+# OS
+.DS_Store
+
+# Misc
+bin/
+tmp/
+*.swp
+*.tmp
+*.old
+*.bak
